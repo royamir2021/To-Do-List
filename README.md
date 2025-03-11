@@ -85,8 +85,5 @@ Enhance the JavaScript functionality in `assets/js/scripts.js` to customize the 
 ### 3. Update Content
 Modify the HTML content in `index.php` to personalize the text and tasks.
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Contributors
 - [Roya Mir](https://github.com/royamir2021)
