@@ -8,12 +8,8 @@
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
+    
     <div class="container">
         <header class="d-flex justify-content-between align-items-center my-4">
             <h1>To-Do List</h1>
         </header>
-         
-    </div>
-    
-</body>
-</html>
