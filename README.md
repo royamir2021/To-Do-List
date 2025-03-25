@@ -10,7 +10,7 @@ A simple and efficient To-Do List web application built using PHP, HTML, CSS, Ja
 - Responsive design using Bootstrap 📱💻
 
 ## 🛠️ Technologies Used
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, jQuery
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript
 - **Backend**: PHP, MySQL
 - **AJAX**: For seamless updates
 
