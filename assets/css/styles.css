@@ -1,40 +1,45 @@
-body{
-    display:flex;
+body {
+    display: flex;
     flex-direction: column;
     min-height: 100vh;
     background-color: #f8f9fa;
 
 }
-.container{
+
+.container {
     flex: 1;
 }
-header h1{
-    color: #007bff; 
+
+header h1 {
+    color: #007bff;
 }
-footer{
+
+footer {
     margin-top: 20px;
     padding: 10px 0;
-    background-color: #007bff; 
+    background-color: #007bff;
     color: #fff;
     position: relative;
-    bottom: 0  ;
+    bottom: 0;
     width: 100%;
 }
-footer a{
+
+footer a {
     color: #fff;
     text-decoration: underline;
 }
-.list-group-item{
+
+.list-group-item {
     display: #fff;
     justify-content: space-between;
     align-items: center;
 
 }
 
-.list-group-item:hover{
+.list-group-item:hover {
     background-color: #c2c9d6;
-}  
+}
 
-.list-group-item span{
+.list-group-item span {
     flex-grow: 1;
-} 
+}
